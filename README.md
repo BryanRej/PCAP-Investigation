@@ -17,7 +17,7 @@ This project uses a network packet analyzer known as Wireshark to investigate po
 
 <p align="center">
  I start by opening up a new Wireshark instance.<br/>
-<img src="https://i.imgur.com/CEsHkQ3.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ru5Y1r8.png"="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 
