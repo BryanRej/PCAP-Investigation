@@ -1,7 +1,7 @@
 <h1>Pcap investigation</h1>
 
 <h2>Description</h2>
-This project uses a network packet analyzer known as Wireshark to investigate potentially malicious Pcap files and suspicious network traffic.
+This project uses a network packet analyzer known as Wireshark and TCPDump to investigate potentially malicious Pcap files and suspicious network traffic.
 <br />
 
 <h2>Languages and Utilities Used</h2>
